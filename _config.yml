@@ -107,7 +107,7 @@ author:
   name             : "Jussoss"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Jussoss의 블로그입니다."
-  location         : "대한민국 대전광역시 거주"
+  location         : "대한민국 거주"
   email            : "lsz121@naver.com"
   links:
     - label: "Email"
