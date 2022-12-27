@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-Seoul"
-title                    : "Jussoss의 블로그"
+title                    : "Jussoss님의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jussoss"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Jussoss"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Jussoss의 블로그입니다."
+  bio              : "Jussoss님의 블로그입니다."
   location         : "대한민국 거주"
   email            : "lsz121@naver.com"
   links:
